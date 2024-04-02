@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=a3b899&height=150&section=header&text=wowai717&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=30)
 
-#### 👋: Welcom my github profile !
+#### 👋 Welcom my github profile !
 
 <br/>
 

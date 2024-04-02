@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder)
+![header](https://capsule-render.vercel.app/api?type=waving&color=a3b899&height=150&section=header&text=wowai717&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=30)
+
 
 <!--
 **wowai717/wowai717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

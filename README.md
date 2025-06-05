@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+I'm+Woojun;Backend+developer+in+progress;Studying+in+Korea+📍;Dreaming+of+working+in+Japan+🇯🇵)
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=WOOJUN%20NAM&fontSize=40&fontColor=ffffff&animation=fadeIn" />

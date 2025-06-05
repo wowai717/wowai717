@@ -51,4 +51,4 @@
 ### 📫 Contact
 
 - 🖋 Blog: [velog.io/@wowai717](https://velog.io/@wowai717)
-- 📧 Email: (넣고 싶으면 말해줘)
+- 📧 Email: bjacau3@gmail.com

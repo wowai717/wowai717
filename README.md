@@ -1,30 +1,27 @@
-<!-- (겹침 방지) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+I'm+Woojun!;Backend+developer+in+progress.;Dreaming+of+working+in+Japan+🇯🇵" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=こんにちは、ウジュンです！&fontSize=40&fontColor=ffffff&desc=&descSize=20&descColor=ffffff&animation=fadeIn" />
 </p>
 
 
 
 
-
-
-<h2 align="center">Hi, I'm Woojun 👨‍💻</h2>
-
+<!-- 소개 문구 -->
 <p align="center">
-  <i>Frontend to Backend, I'm building it all step by step.</i>
+  <i>日本でエンジニアとして働くことを目指し、日々努力しています。</i>
 </p>
 
----
-
-### 🌍 Career Goal
-
-- 🎯 Aim: Get a backend dev job in **Japan 🇯🇵 by 2027**
-- 🌱 Currently learning: `JavaScript`, `React`, `MySQL`, `Linux`
-- 🧱 Focusing on: Web fundamentals + Git/GitHub mastery
 
 ---
 
-### 🧰 Tech Stack
+### 🌍 キャリア目標
+
+- 🎯 目標：2027年までに日本でバックエンドエンジニアとして就職すること
+- 🌱 現在学習中：`JavaScript`、`React`、`MySQL`、`Linux`
+- 🧱 重点強化中：Webの基礎知識と Git/GitHub の運用スキル
+
+---
+
+### 🧰 技術スタック
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -37,7 +34,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub ステータス
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wowai717&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
@@ -46,8 +43,7 @@
 
 ---
 
+### 📫 連絡先
 
-### 📫 Contact
-
-- 🖋 Blog: [velog.io/@wowai717](https://velog.io/@wowai717)
-- 📧 Email: bjacau3@gmail.com
+- 🖋 ブログ：[velog.io/@wowai717](https://velog.io/@wowai717)
+- 📧 メール：bjacau3@gmail.com

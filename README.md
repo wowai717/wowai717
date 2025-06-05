@@ -15,7 +15,6 @@
 - 🎯 Aim: Get a backend dev job in **Japan 🇯🇵 by 2027**
 - 🌱 Currently learning: `JavaScript`, `React`, `MySQL`, `Linux`
 - 🧱 Focusing on: Web fundamentals + Git/GitHub mastery
-- 🚀 Personal project: Building a bulletin board service with full CRUD
 
 ---
 

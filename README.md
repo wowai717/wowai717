@@ -43,8 +43,9 @@
 ### 🕹 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wowai717&theme=github-compact&color=58a6ff&point=ffffff&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wowai717&theme=github-compact&color=58a6ff&point=ffffff&hide_border=true" />
 </p>
+
 
 ---
 

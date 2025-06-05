@@ -1,9 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+I'm+Woojun;Backend+developer+in+progress;Studying+in+Korea+📍;Dreaming+of+working+in+Japan+🇯🇵)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi,+I'm+Woojun!;Studying+in+Korea%2C+Dreaming+of+Japan.;🔥)
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=WOOJUN%20NAM&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 <h2 align="center">Hi, I'm Woojun 👨‍💻</h2>
 

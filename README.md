@@ -42,15 +42,9 @@
 
 ### 🕹 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wowai717&theme=github-compact&color=58a6ff&point=ffffff&hide_border=true" />
-</p>
 <img src="https://github-readme-stats.vercel.app/api?username=wowai717&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wowai717&layout=compact&theme=tokyonight" />
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Woojun!;I+love+building+things.;Learning+new+tech+every+day!)
-<img src="https://github-profile-trophy.vercel.app/?username=wowai717&theme=onedark&column=7" />
-<!-- GitHub Actions로 지렁이 커밋 그래프 -->
-![snake gif](https://github.com/wowai717/wowai717/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---

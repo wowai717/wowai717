@@ -40,14 +40,6 @@
 
 ---
 
-### 🕹 Activity Graph
-
-<img src="https://github-readme-stats.vercel.app/api?username=wowai717&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wowai717&layout=compact&theme=tokyonight" />
-
-
-
----
 
 ### 📫 Contact
 

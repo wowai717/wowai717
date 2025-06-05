@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=200&section=header&text=WOOJUN%20NAM&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 

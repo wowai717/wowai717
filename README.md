@@ -1,6 +1,12 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi,+I'm+Woojun!;Studying+in+Korea%2C+Dreaming+of+Japan.;🔥)
 
 
+
+
+
+
+
+
 <h2 align="center">Hi, I'm Woojun 👨‍💻</h2>
 
 <p align="center">

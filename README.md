@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=NAM WOO JUN &fontSize=40&fontColor=ffffff&desc=&descSize=20&descColor=ffffff&animation=fadeIn" />
-</p>
-
-
 ### 🧰 技術スタック
 
 <p align="center">

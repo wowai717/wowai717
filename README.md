@@ -1,25 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=こんにちは、ウジュンです！&fontSize=40&fontColor=ffffff&desc=&descSize=20&descColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=NAM WOO JUN&fontSize=40&fontColor=ffffff&desc=&descSize=20&descColor=ffffff&animation=fadeIn" />
 </p>
 
-
-
-
-<!-- 소개 문구 -->
-<p align="center">
-  <i>日本でエンジニアとして働くことを目指しています。</i>
-</p>
-
-
----
-
-### 🌍 キャリア目標
-
-- 🎯 目標：2027年までに日本でバックエンドエンジニアとして就職すること
-- 🌱 現在学習中：`JavaScript`、`React`、`MySQL`、`Linux`
-- 🧱 重点強化中：Webの基礎知識と Git/GitHub の運用スキル
-
----
 
 ### 🧰 技術スタック
 
